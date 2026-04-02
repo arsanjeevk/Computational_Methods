@@ -11,6 +11,7 @@ dx = x[1] - x[0]
 dt = 0.5 * dx**2 / D
 nt = int(1 / dt)
 
+
 #temperature grid
 T = np.zeros((len(x), nt))
 
