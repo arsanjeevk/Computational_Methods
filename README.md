@@ -11,6 +11,7 @@ This repository contains Python implementations of numerical methods used in phy
 - Time-correlated distributions
 - Interpolation and Extrapolation
 - Differentiation and Integration
+- Time Integration Techniques
 - Fourier Transform
 
 ## Tools Used
