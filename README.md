@@ -14,6 +14,14 @@ This repository contains Python implementations of numerical methods used in phy
 - Time Integration Techniques
 - Fourier Transform
 
+# Project 
+Damped Harmonic Oscillator
+Part 1
+Given System is solved for the undergiven cases:
+-Underdamped
+-Critically Damped
+-Overdamped
+
 ## Tools Used
 
 - Python
